@@ -28,7 +28,6 @@ function viajes(){
     let nombre= prompt("ingrese Su Nombre y Apellido")
     let mes=prompt( "ingrese su mes de Viaje")
     let dia=prompt( "Ingrese su Dia ")
-
     alert ("Hola "+ nombre + " Usted viajara el mes "+ mes +" del Dia " + dia )
 
     let equipaje= prompt(nombre +", Ingrese la cantidad de equipaje que decea llevar")
